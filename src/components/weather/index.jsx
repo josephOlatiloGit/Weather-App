@@ -2,7 +2,9 @@ import React, { useEffect, useState } from "react";
 import Search from "../search";
 
 /**
- * The Approach here is to create reusable components one with the inputs fill and the other to fetch the (API call)weather data from an end-point.
+ * The Approach here is to create reusable components one with the 
+ * inputs fill and the other to fetch the (API call) 
+ * weather data from an end-point.
  *
  */
 
